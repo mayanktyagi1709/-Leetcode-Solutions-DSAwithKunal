@@ -81,4 +81,5 @@ int main()
 {
     vector<int> arr = {4, 5, 6, 7, 0, 1, 2};
     int target = 0;
+    cout<<search(nums, target);
 }
